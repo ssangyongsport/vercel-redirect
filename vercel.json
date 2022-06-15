@@ -2,12 +2,12 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://pabio.com",
+      "destination": "https://www.ssangyongsports.eu.org/",
       "permanent": true
     },
     { 
       "source": "/:path*",
-      "destination": "https://pabio.com/:path*",
+      "destination": "https://www.ssangyongsports.eu.org/:path*",
       "permanent": true
     }
   ]
