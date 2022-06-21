@@ -2,12 +2,12 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://www.ssangyongsports.eu.org/",
+      "destination": "https://www.ssangyongsports.eu.org/p/blog-page_14.html",
       "permanent": true
     },
     { 
       "source": "/:path*",
-      "destination": "https://www.ssangyongsports.eu.org/:path*",
+      "destination": "https://www.ssangyongsports.eu.org/p/blog-page_14.html:path*",
       "permanent": true
     }
   ]
